@@ -34,8 +34,8 @@ I specialize in creating seamless user experiences by combining **aesthetic prec
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="github-readme-stats-fast.vercel.app/api?username=[boniemana]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="github-readme-stats-fast.vercel.app/api/top-langs/?username=[boniemana]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bony&show_icons=true&theme=tokyonight)"GitHub Stats" />
+  <img src="![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bony&theme=tokyonight)"Top Languages" />
 </p>
 
 ---
