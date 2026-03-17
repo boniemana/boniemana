@@ -1,12 +1,24 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bontu!+🚀;Software+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bontu!+🚀" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <strong>Bridging the gap between beautiful interfaces and scalable code.</strong>
+  <code><strong>Software Engineer</strong></code> 
+  &nbsp; ✦ &nbsp; 
+  <code><strong>UI/UX Designer</strong></code>
 </p>
+
+<p align="center">
+  <samp>Bridging the gap between <i>beautiful interfaces</i> and <i>scalable code.</i></samp>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-6366f1?style=flat-square" alt="Status" />
+</p>
+
+<p align="center">___________________________________________</p>
 
 ## 🎨 Design meets 💻 Engineering
 I specialize in creating seamless user experiences by combining **aesthetic precision** with **technical performance**. I don't just build components; I design systems.
