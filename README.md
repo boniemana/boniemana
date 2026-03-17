@@ -14,11 +14,8 @@
   <samp>Bridging the gap between <i>beautiful interfaces</i> and <i>scalable code.</i></samp>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-6366f1?style=flat-square" alt="Status" />
-</p>
 
-<p align="center">___________________________________________</p>
+<p>___________________________________________</p>
 
 ## 🎨 Design meets 💻 Engineering
 I specialize in creating seamless user experiences by combining **aesthetic precision** with **technical performance**. I don't just build components; I design systems.
